@@ -1,8 +1,8 @@
 # Email Reply Generator
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d727319-8ad7-4de7-bab5-20126cd5965e" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/05f7b658-625b-4e52-9e34-71f59d446482" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d727319-8ad7-4de7-bab5-20126cd5965e" />
 
 
 
