@@ -27,14 +27,10 @@ Generate AI-powered email responses instantly using Google's Gemini API.
    select the "email_writer_ext" file and your extension is added.
 
 
-# Backend (Spring Boot)
-mvn spring-boot:run
+🛠 Technology Stack
+Backend:
+Spring Boot
 
-# Frontend (React)
-npm install
-npm start
-Technologies
-Frontend: React, Material-UI
-
-
-
+Frontend:
+React (with Vite for fast bundling)
+Material-UI (MUI) for modern UI components
